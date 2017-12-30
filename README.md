@@ -1,2 +1,2 @@
-# PHP-CONSUME-WCF-Service
-Illustrate using a php Soap Clientr to consume a wcf service
+# PHP-Cosume-Wcf-Service
+Illustrate using a php Soap Client to consume a wcf service.
